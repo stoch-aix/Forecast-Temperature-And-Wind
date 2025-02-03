@@ -2,6 +2,10 @@
 #
 # auxiliary functions
 #
+# (C) 2025 A. Steland, Institute of Statistics and AI Center, RWTH Aachen University
+# published under the Academic Research Software Licence (ARSL) 1.0
+#
+
 
 MSE = function(x,y) as.numeric( crossprod(x-y) )
 RMSE = function(x,y) as.numeric( sqrt(crossprod(x-y)) )

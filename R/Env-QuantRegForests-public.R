@@ -5,7 +5,8 @@
 # code based on a template from Gemini 2.0 flash
 # 
 # (C) A. Steland, Institute of Statistics and AI Center, RWTH Aachen University
-# 
+# published under the Academic Research Software Licence (ARSL) 1.0
+#
 # 
  
 

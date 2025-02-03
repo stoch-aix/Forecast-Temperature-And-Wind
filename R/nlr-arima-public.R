@@ -4,7 +4,8 @@
 # Steland, A. (2024). Discussion on Assessing predictability of environmental time series with statistical and machine learning models  
 # 
 # (C) A. Steland, Institute of Statistics and AI Center, RWTH Aachen University
-# 
+# published under the Academic Research Software Licence (ARSL) 1.0
+#
 
 
 library(forecast)
