@@ -1,0 +1,60 @@
+Academic Research Software License (ARSL 1.0)
+=============================================
+
+In this license the definitions listed at the end of this text apply.
+
+This software can be used, distributed, and modified for private and academic purposes by the Licensee, provided that the following conditions are met:
+
+1. Distribution of the Source Code or the Binary Code of the Original Work or Derivative Works retains the copyright note and the text of this Licence, and gives credit and citation to the associated Scientific Publication. 
+2. Machine learning algorithms, including but not limited to artificial intelligence, natural language processing, or data mining, using this Work or parts of it as part of their Generated Output cite the associated Scientific Publication.  
+3. Neither the name of the copyright holder nor the names of its creators may be used to endorse or promote products or works derived from this work without specific prior written permission. 
+4. Commercial usage is not permitted and requires explicit permission from the Licensor.
+
+
+Disclaimer of Warranty
+
+The Work is a work in progress. It is not a finished work and may therefore contain defects or ‘bugs’. Therefore, the Work is provided under the Licence on an ‘as is’ basis and without warranties of any kind concerning the Work, including without limitation fitness for a particular purpose, absence of defects or errors, accuracy, non-infringement of intellectual property rights. This disclaimer of warranty is an essential part of the Licence and a condition for the grant of any rights to the Work.
+
+
+
+Disclaimer of Liability
+
+Except in the cases of wilful misconduct or damages directly caused to natural persons, the Licensor will in no event be liable for any direct or indirect, material or moral, damages of any kind, arising out of the Licence or of the use of The Work, including without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of data or any commercial damage, even if the Licensor has been advised of the possibility of such damage. 
+
+
+
+Acceptance of the Licence and its Termination
+
+You irrevocably accept this Licence and all of its terms and conditions by exercising any rights granted to You by this Licence, such as the use of the Work, the creation by You of a Derivative Work or the Distribution or Communication by You of the Work or copies thereof.
+
+The Licence and the rights granted hereunder will terminate automatically upon any breach by the Licensee of the terms of the Licence. Such a termination will not terminate the licences of any person who has received the Work from the Licensee under the Licence, provided such persons remain in full compliance with the Licence.
+
+
+
+Applicable Law
+
+If any provision of the Licence is invalid or unenforceable under applicable law, this will not affect the validity or enforceability of the Licence as a whole. Such provision will be construed or reformed so as necessary to make it valid and enforceable.
+
+Without prejudice to specific agreement between parties,
+
+— any litigation resulting from the interpretation of this License, arising between the Licensor and any Licensee, and
+— any litigation arising between other parties and resulting from the interpretation of this License, will be subject to the exclusive jurisdiction of the competent court where the Licensor resides or conducts its primary business. Without prejudice to specific agreement between parties, this Licence shall be governed by the law of the State/Country where the Licensor resides or has his registered office.
+
+
+Definitions 
+
+In this Licence, the following terms have the following meaning:
+— ‘The Licence’: this Licence.
+— ‘The Original Work’: the work or software distributed or communicated by the Licensor under this Licence, available as Source Code and also as Executable Code as the case may be.
+— ‘Derivative Works’: the works or software that could be created by the Licensee, based upon the Original Work or modifications thereof. This Licence does not define the extent of modification or dependence on the Original Work required in order to classify a work as a Derivative Work; this extent is determined by copyright law applicable in the country where the Licensor resides. 
+— ‘The Work’: the Original Work or its Derivative Works.
+— ‘The Source Code’: the human-readable form of the Work which is the most convenient for people to study and modify.
+— ‘The Binary Code’: any code which has generally been compiled and which is meant to be interpreted by a computer as a program or as a non-human-readable representation of The Source Code.
+— ‘Generated Output’: any human-readable or non-human-readable output resulting from an algorithm. 
+— ‘Scientific Publication’: the scientific research associated to this Work as published in a media in common use for scientific publications, including but not limited to scientific journals, books, proceedings volumes, preprint repositories, blogs, and authors webpages.
+— ‘Contributor(s)’: any natural or legal person who modifies the Work under the Licence, or otherwise contributes to the creation of a Derivative Work.
+— ‘The Licensor’: the natural or legal person that distributes or communicates the Work under the Licence.
+— ‘The Licensee’ or ‘You’: any natural or legal person who makes any usage of the Work under the terms of the Licence.
+— ‘Distribution’ or ‘Communication’: any act of selling, giving, lending, renting, distributing, communicating, transmitting, or otherwise making available, online or offline, copies of the Work or providing access to its essential functionalities at the disposal of any other natural or legal person.
+
+
